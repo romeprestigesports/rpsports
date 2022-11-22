@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: YouTube
     url: "#"
-  - text: Menu Two
+  - text: TikTok
     url: "#"
-  - text: Menu Three
+  - text: Instagram
     url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Todos
+    url: /blog
