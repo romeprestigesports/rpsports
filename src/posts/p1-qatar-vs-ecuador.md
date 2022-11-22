@@ -7,6 +7,6 @@ tags:
   - groups
   - groupa
 ---
-<video id="vid1" class="video-js" controls autoplay preload="auto" height="720" width="1280">
+<video id="vid1" class="video-js" controls autoplay preload="auto" width="100%">
   <source src="https://www.dropbox.com/s/z6vums2kyjln4pn/20221120_gap1__qatvsecu_sp-arg.mp4?raw=1">
 </video>
