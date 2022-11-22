@@ -1,5 +1,5 @@
 ---
-title: "P7: MEXICO VS TUNISIA"
+title: "P7: MEXICO VS POLAND"
 description: RESUMEN
 author: RPS
 date: 2022-11-22T18:23:20.685Z
