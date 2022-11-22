@@ -6,6 +6,8 @@ date: 2022-11-22T18:23:20.685Z
 tags:
   - groupc
 ---
+![](/static/img/22-11-22_13-02-54-103.jpg)
+
 <video id="vid1" class="video-js" controls autoplay preload="auto" height="720" width="1280">
   <source src="https://www.dropbox.com/s/j7009u5d90da4xl/20221122mexvspol_esmx.mp4?raw=1">
 </video>
