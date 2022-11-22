@@ -4,7 +4,8 @@ description: RESUMEN
 author: RPS
 date: 2022-11-22T17:02:27.189Z
 tags:
-  - Tags
+  - groups
+  - groupa
 ---
 # QATAR VS ECUADOR (2022-11-20)
 
