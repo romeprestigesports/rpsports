@@ -6,6 +6,8 @@ date: 2022-11-22T17:26:09.885Z
 tags:
   - groupa
 ---
+![](/static/img/22-11-21_13-07-51-506.jpg)
+
 <video id="vid1" class="video-js" controls autoplay preload="auto" height="720" width="1280">
   <source src="https://www.dropbox.com/s/dhonri6mxszm59z/20221121_gap2_nedvssen_es-mx_v3.mp4?raw=1">
 </video>
