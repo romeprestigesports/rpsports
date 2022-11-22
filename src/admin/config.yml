@@ -29,7 +29,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["Tags", "created", "from", "config.yml","groupa","groupb","groupc","groupd","groupe","groupf","groupg","grouph","groups","round16","quarterfinals","semifinals"]
   - label: "Settings"
     name: "settings"
     editor:
