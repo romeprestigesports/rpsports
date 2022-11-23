@@ -12,4 +12,4 @@ tags:
   <source src="https://www.dropbox.com/s/2rk8trfrf0us1do/20221123belvscan_esarg.mp4?raw=1">
 </video>
 
-<iframe width="1280" height="720" frameborder="0" src="https://mega.nz/embed/aIp0maBb#IxqZW6Z_PqevBJdOFuLsGKNF5pihlggEEHdSAjAxccM" allowfullscreen ></iframe>
+<iframe frameborder="0" src="https://mega.nz/embed/aIp0maBb#IxqZW6Z_PqevBJdOFuLsGKNF5pihlggEEHdSAjAxccM" allowfullscreen ></iframe>
