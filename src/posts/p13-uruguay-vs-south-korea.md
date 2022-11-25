@@ -6,6 +6,8 @@ date: 2022-11-25T01:24:27.046Z
 tags:
   - grouph
 ---
+![](/static/img/22-11-24_10-12-13-328.jpg)
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mR7osL7VmSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nPDWxOOxcFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
