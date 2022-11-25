@@ -1,5 +1,5 @@
 ---
-title: "P13: SWITZERLAND VS CAMEROOM"
+title: "P13: SWITZERLAND VS CAMEROON"
 description: RESUMEN
 author: RPS
 date: 2022-11-25T01:17:03.966Z
