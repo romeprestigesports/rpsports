@@ -1,5 +1,5 @@
 ---
-title: "P13: URUGUAY VS SOUTH KOREA"
+title: "P14: URUGUAY VS SOUTH KOREA"
 description: RESUMEN (GROUP H)
 author: RPS
 date: 2022-11-25T01:24:27.046Z
